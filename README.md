@@ -1,3 +1,6 @@
+NO, USE THIS INSTEAD: [sndio-sys](https://github.com/mjkillough/sioctl-rs/tree/master/sndio-sys)  
+
+
 sndio-sys
 =========
 
