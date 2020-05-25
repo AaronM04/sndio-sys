@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Aaron Miller <aaron@iforgotmy.name>"]
 edition = "2018"
 license = "BSD-2-Clause"
+description = "Rust unsafe bindings for OpenBSD's sndio library for audio"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
